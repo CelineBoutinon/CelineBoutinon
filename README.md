@@ -6,16 +6,16 @@
 
 <br>
 <ul>
-<li>🔭 I’m currently working on [TBC].</li>
-<li>🌱 I’m currently learning [TBC].</li>
-<li>💬 Ask me about [TBC].</li>
-<li>⚡ Fun fact: I’m also [TBC].</li>
+<li>🔭 :seedling: I’m currently working on [TBC].</li>
+<li>🌱 :mortar_board: I’m currently learning [TBC].</li>
+<li>💬 :thought_balloon: Ask me about [TBC].</li>
+<li>⚡ :hot_pepper: :mushroom: Fun fact: I’m also [TBC].</li>
 </ul>
 <br>
 
-<h2 align="left">:toolbox: Skills:</h2>
+<h2 align="left">:toolbox: :hammer_and_wrench: :sparkles: Skills:</h2>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left"> :nut_and_bolt: Languages:</h3>
 <!-- Python -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img src="images/python.png" alt="AWS" width="40" height="40">
@@ -27,7 +27,7 @@
 
 
 
-<h3 align="left">Databases & Cloud Hosting:</h3>
+<h3 align="left"> :pick: :file_cabinet: Databases & Cloud Hosting:</h3>
 <!-- AWS -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img src="images/AWS.png" alt="AWS" width="40" height="40">
@@ -49,7 +49,17 @@
   <img src="images/MySQLWorkbench.png" alt="MySQL Workbench" width="40" height="40">
 </a>
 
-<h3 align="left">Data Visualisation & Business Intelligence:</h3>
+<h3 align="left"> :test_tube: :alembic: Data science:</h3>
+<!-- Scikit-learn -->
+<a href="https://daxstudio.org" target="_blank" rel="noreferrer">
+  <img src="images/dax_studio.png" alt="DAX Studio" width="40" height="40">
+</a>
+<!-- Statsmodels API -->
+
+<!-- Tensorflow -->
+
+
+<h3 align="left">:bar_chart: :pushpin: Data Visualisation & Business Intelligence:</h3>
 <!-- DAX Studio -->
 <a href="https://daxstudio.org" target="_blank" rel="noreferrer">
   <img src="images/dax_studio.png" alt="DAX Studio" width="40" height="40">
@@ -63,7 +73,7 @@
   <img src="images/streamlit.png" alt="Streamlit" width="40" height="40">
 </a>
 
-<h3 align="left">MLOps:</h3>
+<h3 align="left"> :gear: MLOps:</h3>
 <!-- Docker 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="images/docker-logo-blue.png" alt="Docker" width="40" height="40">
@@ -85,7 +95,7 @@
   <img src="images/MLflow.png" alt="MLflow" width="40" height="40">
 </a>
 
-<h3 align="left">Software & Tools:</h3>
+<h3 align="left"> :laptop: Software & Tools:</h3>
 <!-- Visual Studio Code -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="images/vscode.png" alt="VS Code" width="40" height="40">

@@ -13,7 +13,7 @@
 </a>
 <!-- Snowflake -->
 <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
-  <img src="images/Snowflake" alt="Snowflake" width="40" height="40">
+  <img src="images/Snowflake.png" alt="Snowflake" width="40" height="40">
 </a>
 <!-- MySQL Workbench -->
 <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer">
@@ -31,7 +31,7 @@
 </a>
 <!-- Streamlit -->
 <a href="https://streamlit.io" target="_blank" rel="noreferrer">
-  <img src="images/streamlit" alt="Streamlit" width="40" height="40">
+  <img src="images/streamlit.png" alt="Streamlit" width="40" height="40">
 </a>
 
 <h2 align="left">MLOps:</h2>

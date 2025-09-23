@@ -150,32 +150,6 @@ problem-solving skills and active stakeholder engagement.
   <img src="images/canva.png" alt="Canva" width="40" height="40">
 </a> 
 
-<h3 align="left"> :pushpin: Deployment & Infrastructure:</h3>
-<!-- Docker 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="images/docker-logo-blue.png" alt="Docker" width="40" height="40">
-</a> -->
-<!-- Visual Studio Code -->
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="images/vscode.png" alt="VS Code" width="40" height="40">
-</a>
-
-<!-- GitHub Actions -->
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-  <img src="images/github-actions.png" alt="GitHub Actions" width="40" height="40">
-</a>
-<!-- Pytest -->
-<a href="https://pytest.org/" target="_blank" rel="noreferrer">
-  <img src="images/pytest.png" alt="pytest" width="40" height="40">
-</a>
-<!-- Flask -->
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="images/flask.png" alt="Flask" width="40" height="40">
-</a>
-<!-- MLflow -->
-<a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-  <img src="images/MLflow.png" alt="MLflow" width="40" height="40">
-</a>
 
 
 

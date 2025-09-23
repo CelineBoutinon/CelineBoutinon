@@ -17,13 +17,13 @@ Financial Services & Maritime Industry
 <h2 align="left"> :mortar_board: What I'm currently learning:</h2>
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://pypi.org/project/pyspark/" target="_blank" rel="noreferrer">
-    <img src="images/pyspark.png" alt="PySpark" width="40" height="40">
+    <img src="images/pyspark.png" alt="PySpark" width="150" height="150">
   </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="images/airflow.png" alt="Airflow" width="40" height="40">
+    <img src="images/airflow.png" alt="Airflow" width="150" height="150">
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="images/docker-logo-blue.png" alt="Docker" width="40" height="40">
+    <img src="images/docker-logo-blue.png" alt="Docker" width="150" height="150">
   </a>
 </div>
 

@@ -85,8 +85,6 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 
 <h3 align="left"> I’m currently working on harnessing the power of Sagemaker AI for my next portfolio projects - mapping & forecasting international :tomato: paste trade & assessing wild :mushroom: edibility... watch this space!</h3>
 
-
-<br>
 <br>
 <h2 align="left"> :sparkles: Contact me:</h2>
 <p align="center">

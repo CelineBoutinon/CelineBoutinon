@@ -4,7 +4,7 @@
  <h2 align="center">:pick: I transform raw data into actionable business insights :gem: </h2>
 </p>
 <br>
-<h2 align="left"> :mortar_board: What I'm currently learning:</h2>
+<h2 align="left"> :mortar_board: What I'm currently learning</h2>
 <div style="display: flex; gap: 30px; align-items: left; justify-content: left;">
   <a href="https://pypi.org/project/pyspark/" target="_blank" rel="noreferrer">
     <img src="images/pyspark.png" alt="PySpark" width="150" height="150">
@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<h2 align="left"> :sparkles: Check out my latest projects:</h2>
+<h2 align="left"> :sparkles: Check out my latest projects</h2>
 <h3 align="left"> :pushpin: Market segmentation & customer behaviour  </h3>
 <ul>
 <li>Establishing & maintaining a customer segmentation model for online Brazilian marketplace <a href=https://github.com/CelineBoutinon/client-segmentation target="_blank" rel="noreferrer">Olist</a></li>
@@ -86,7 +86,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 <h3 align="left"> I’m currently working on harnessing the power of Sagemaker AI for my next portfolio projects - mapping & forecasting international :tomato: paste trade & assessing wild :mushroom: edibility... watch this space!</h3>
 
 <br>
-<h2 align="left"> :sparkles: Contact me:</h2>
+<h2 align="left"> :sparkles: Contact me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/celineboutinon/?locale=en_US"><img src="images/LinkedIn_icon.png"></a>
   </p>

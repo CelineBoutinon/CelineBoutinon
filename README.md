@@ -22,67 +22,75 @@
 <h2 align="left"> :sparkles: Check out my latest projects:</h2>
 <br>
 <h3 align="left"> :pushpin: Market & customer behaviour segmentation </h3>
-Establishing & maintaining a customer segmentation model for online Brazilian marketplace <a href=https://github.com/CelineBoutinon/client-segmentation target="_blank" rel="noreferrer">Olist</a>
+<ul>
+<li>Establishing & maintaining a customer segmentation model for online Brazilian marketplace <a href=https://github.com/CelineBoutinon/client-segmentation target="_blank" rel="noreferrer">Olist</a></li>
 <br>
-Identifying & analysing potential export markets for French chicken<a href= https://github.com/CelineBoutinon/chicken-run target="_blank" rel="noreferrer">chicken</a> products
-
+<li>Identifying & analysing potential export markets for French chicken<a href= https://github.com/CelineBoutinon/chicken-run target="_blank" rel="noreferrer">chicken</a> products</li>
+</ul>
 
 <h3 align="left"> :pushpin: Fraud detection </h3>
-Detecting <a href=https://github.com/CelineBoutinon/faux-billets target="_blank" rel="noreferrer">counterfeit banknotes</a>
+<ul>
+<li>Detecting <a href=https://github.com/CelineBoutinon/faux-billets target="_blank" rel="noreferrer">counterfeit banknotes</a></li>
 <br> with logistic regression
-Establishing an individual's <a href=https://github.com/CelineBoutinon/credit-scoring target="_blank" rel="noreferrer">credit score</a> to justify consumer credit application decisions
-
+<li>Establishing an individual's <a href=https://github.com/CelineBoutinon/credit-scoring target="_blank" rel="noreferrer">credit score</a> to justify consumer credit application decisions</li>
+</ul>
 
 <h3 align="left"> :pushpin: Image classification </h3>
-Classifying listings with CNNs, text vectors & text embeddings for an online <a href=https://github.com/CelineBoutinon/product-classification target="_blank" rel="noreferrer">marketplace</a>
+<ul>
+<li>Classifying listings with CNNs, text vectors & text embeddings for an online <a href=https://github.com/CelineBoutinon/product-classification target="_blank" rel="noreferrer">marketplace</a></li>
 <br>
-A Big Data image classification architecture applied to <a href=https://github.com/CelineBoutinon/big-data-cloud
-<br> target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR
+<li>A Big Data image classification architecture applied to <a href=https://github.com/CelineBoutinon/big-data-cloud
+target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 <br>
-A comparison of visual transformers with CNN image classifiers <a href=https://github.com/CelineBoutinon/visual-transformers target="_blank" rel="noreferrer">ResNet50 vs. MobileViTv2</a>
-
+<li>A comparison of visual transformers with CNN image classifiers <a href=https://github.com/CelineBoutinon/visual-transformers target="_blank" rel="noreferrer">ResNet50 vs. MobileViTv2</a></li>
+</ul>
 
 <h3 align="left"> :pushpin: Machine learning, model serving & CI/CD </h3>
-Predicting the energy consumption & greenhouse gas emissions of non-residential buildings in the <a href=https://github.com/CelineBoutinon/energy-consumption target="_blank" rel="noreferrer">City of Seattle</a>
-with PyTest, Flask & Render <a href=https://github.com/CelineBoutinon/credit-scoring-api
-
+<ul>
+<li>Predicting the energy consumption & greenhouse gas emissions of non-residential buildings in the <a href=https://github.com/CelineBoutinon/energy-consumption target="_blank" rel="noreferrer">City of Seattle</a></li>
+<li>Deploying a consumer credit risk assessment and decision  <a href=https://github.com/CelineBoutinon/credit-scoring-api target="_blank" rel="noreferrer">application</a> with PyTest, Flask & Render</li>
+</ul>
 
 
 
 <h3 align="left"> :pushpin: Dashboarding </h3>
-Creating a <a href=https://github.com/CelineBoutinon/WCAG-accessible-dashboard target="_blank" rel="noreferrer">dashboard</a> for colorblind & visually impaired users with Streamlit
+<ul>
+<li>Creating a <a href=https://github.com/CelineBoutinon/WCAG-accessible-dashboard target="_blank" rel="noreferrer">dashboard</a> for colorblind & visually impaired users with Streamlit</li>
 <br>
-Analysing worldwide access to <a href=https://github.com/CelineBoutinon/drinking-water-for-all target="_blank" rel="noreferrer">drinking water</a> with PowerBI 
-
+<li>Analysing worldwide access to <a href=https://github.com/CelineBoutinon/drinking-water-for-all target="_blank" rel="noreferrer">drinking water</a> with PowerBI </li>
+</ul>
 
 <h3 align="left"> :pushpin: Data wrangling & exploratory data analysis  </h3>
-Data quality analysis & inventory management for an online <a href=https://github.com/CelineBoutinon/bottleneck target="_blank" rel="noreferrer">fine wine store</a>
+<ul>
+<li>Data quality analysis & inventory management for an online <a href=https://github.com/CelineBoutinon/bottleneck target="_blank" rel="noreferrer">fine wine store</a></li>
 <br>
-A no-code analysis of  <a href=https://github.com/CelineBoutinon/lafleche-et-associes target="_blank" rel="noreferrer">gender equality</a>in the workplace with Knime Analytics
+<li>A no-code analysis of  <a href=https://github.com/CelineBoutinon/lafleche-et-associes target="_blank" rel="noreferrer">gender equality</a>in the workplace with Knime Analytics</li>
 <br>
-An worldwide analysis of   <a href=https://github.com/CelineBoutinon/la-faim-dans-le-monde target="_blank" rel="noreferrer">food insecurity</a>with a focus on Thai cassava
-
+<li>An worldwide analysis of   <a href=https://github.com/CelineBoutinon/la-faim-dans-le-monde target="_blank" rel="noreferrer">food insecurity</a>with a focus on Thai cassava</li>
+</ul>
 
 
 <h3 align="left"> :pushpin: Statistical analyses & tests   </h3>
-Describing the behaviour of an <a href=https://github.com/CelineBoutinon/bookwormstarget="_blank" rel="noreferrer">online bookstore</a>'s clients
+<ul>
+<li>Describing the behaviour of an <a href=https://github.com/CelineBoutinon/bookwormstarget="_blank" rel="noreferrer">online bookstore</a>'s clients</li>
 <br>
-Qualifying   <a href=https://github.com/CelineBoutinon/nutrition-informationtarget="_blank" rel="noreferrer">nutrition information</a>on food products'labels
+<li>Qualifying   <a href=https://github.com/CelineBoutinon/nutrition-informationtarget="_blank" rel="noreferrer">nutrition information</a>on food products'labels</li>
 <br>
-Describing the world's leading  <a href=https://github.com/CelineBoutinon/education-statisticstarget="_blank" rel="noreferrer">education systems</a>
-
+<li>Describing the world's leading  <a href=https://github.com/CelineBoutinon/education-statisticstarget="_blank" rel="noreferrer">education systems</a></li>
+</ul>
 
 
 <h3 align="left"> :pushpin: Database management </h3>
-Building & querying a restaurant database in MySQL with a Python client <a href="https://github.com/CelineBoutinon/little-lemon" target="_blank" rel="noreferrer">Little Lemon Restaurant</a>
+<ul>
+<li>Building & querying a restaurant database in MySQL with a Python client <a href="https://github.com/CelineBoutinon/little-lemon" target="_blank" rel="noreferrer">Little Lemon Restaurant</a></li>
 <br>
-Using public data to create a nationwide real-estate database in MySQL with a Python client <a href=https://github.com/CelineBoutinon/laplace-immo target="_blank" rel="noreferrer">Laplace Real Estate</a>
+<li>Using public data to create a nationwide real-estate database in MySQL with a Python client <a href=https://github.com/CelineBoutinon/laplace-immo target="_blank" rel="noreferrer">Laplace Real Estate</a></li>
+</ul>
 
 
 
 
-
-<h3 align="left">:tomato: I’m currently working on harnessing the power of Sagemaker AI for my next portfolio project... watch this space!</h3>
+<h3 align="left">:tomato: I’m currently working on harnessing the power of Sagemaker AI for my next portfolio project mapping world tomato paste trade... watch this space!</h3>
 
 
 <br>

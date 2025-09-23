@@ -3,8 +3,8 @@
  <h2 align="center">:pick: I transform raw data into actionable business insights :gem: </h2>
 
 
-<h2 align="center"> :mortar_board: What I'm currently learning:</h2>
-<div style="display: flex; gap: 30px; align-items: center; justify-content: center;">
+<h2 align="left"> :mortar_board: What I'm currently learning:</h2>
+<div style="display: flex; gap: 30px; align-items: left; justify-content: left;">
   <a href="https://pypi.org/project/pyspark/" target="_blank" rel="noreferrer">
     <img src="images/pyspark.png" alt="PySpark" width="150" height="150">
   </a>

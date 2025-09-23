@@ -14,6 +14,7 @@ problem-solving skills and active stakeholder engagement.
 Financial Services & Maritime Industry
 
 
+<h2 align="left"> :mortar_board: What I'm currently learning:</h2>
 <br>
 <ul>
 <li>🔭 :seedling: :tomato: I’m currently working on harnessing the power of Sagemaker AI for my next portfolio project.</li>
@@ -23,7 +24,15 @@ Financial Services & Maritime Industry
 </ul>
 <br>
 
-<h2 align="left"> :sparkles: Contact me:</h2>
+<h2 align="left"> :sparkles: My portfolio:</h2>
+
+
+
+:tomato: I’m currently working on harnessing the power of Sagemaker AI for my next portfolio project... watch this space!
+
+
+
+<h2 align="left"> :pushpin: Contact me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/celineboutinon/?locale=en_US"><img src="https://img.shields.io/badge/linkedin-#0077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
   </p>

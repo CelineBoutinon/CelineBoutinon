@@ -37,7 +37,7 @@
 <li>Classifying listings with CNNs, text vectors & text embeddings for an online <a href=https://github.com/CelineBoutinon/product-classification target="_blank" rel="noreferrer">marketplace</a></li>
 <li>A Big Data image classification architecture applied to <a href=https://github.com/CelineBoutinon/big-data-cloud
 target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
-<li>A <a href=https://github.com/CelineBoutinon/visual-transformers target="_blank" rel="noreferrer">comparison</a>of visual transformers with CNN image classifiers</li>
+<li>An applied performance <a href=https://github.com/CelineBoutinon/visual-transformers target="_blank" rel="noreferrer">comparison</a> of visual transformers with CNN image classifiers</li>
 </ul>
 
 <h3 align="left"> :pushpin: Model serving & CI/CD </h3>
@@ -61,17 +61,17 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 <br>
 <li>A GDPR-compliant, no-code analysis of  <a href=https://github.com/CelineBoutinon/lafleche-et-associes target="_blank" rel="noreferrer">gender equality</a> in the workplace with Knime Analytics</li>
 <br>
-<li>A worldwide analysis of   <a href=https://github.com/CelineBoutinon/la-faim-dans-le-monde target="_blank" rel="noreferrer">food insecurity</a> with a focus on Thai cassava</li>
+<li>A worldwide analysis of   <a href=https://github.com/CelineBoutinon/la-faim-dans-le-monde target="_blank" rel="noreferrer">food insecurity</a> with a focus on the Thai cassava paradox</li>
 </ul>
 
 
 <h3 align="left"> :pushpin: Statistical analyses & tests   </h3>
 <ul>
-<li>Describing the behaviour of an <a href=https://github.com/CelineBoutinon/bookwormstarget="_blank" rel="noreferrer">online bookstore</a>'s clients</li>
+<li>Characterizing the behaviour of an <a href=https://github.com/CelineBoutinon/bookwormstarget="_blank" rel="noreferrer">online bookstore</a>'s clients</li>
 <br>
-<li>Qualifying   <a href=https://github.com/CelineBoutinon/nutrition-informationtarget="_blank" rel="noreferrer">nutrition information</a> on food products'labels</li>
+<li>Qualifying   <a href=https://github.com/CelineBoutinon/nutrition-informationtarget="_blank" rel="noreferrer">nutrition information</a> on food products' labels</li>
 <br>
-<li>Describing the world's leading  <a href=https://github.com/CelineBoutinon/education-statisticstarget="_blank" rel="noreferrer">education systems</a></li>
+<li>Depicting the world's leading  <a href=https://github.com/CelineBoutinon/education-statisticstarget="_blank" rel="noreferrer">education systems</a></li>
 </ul>
 
 
@@ -79,13 +79,11 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 <ul>
 <li>Building & querying a  <a href="https://github.com/CelineBoutinon/little-lemon" target="_blank" rel="noreferrer">restaurant</a>'s staff & customer database in MySQL with a Python client</li>
 <br>
-<li>Using public data to create a nationwide real-estate database in MySQL with a Python client <a href=https://github.com/CelineBoutinon/laplace-immo target="_blank" rel="noreferrer">Laplace Real Estate</a></li>
+<li>Using public data to create a nationwide <a href=https://github.com/CelineBoutinon/laplace-immo target="_blank" rel="noreferrer">real-estate database</a> in MySQL with a Python client</li>
 </ul>
 
 
-
-
-<h3 align="left">:tomato: I’m currently working on harnessing the power of Sagemaker AI for my next portfolio project - mapping international tomato paste trade... watch this space!</h3>
+<h3 align="left"> I’m currently working on harnessing the power of Sagemaker AI for my next portfolio projects - mapping & forecasting international :tomato: paste trade & assessing wild :mushroom: edibility... watch this space!</h3>
 
 
 <br>

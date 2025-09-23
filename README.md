@@ -34,7 +34,7 @@
 
 <h3 align="left"> :pushpin: Image classification </h3>
 <ul>
-<li>Classifying listings with CNNs, text vectors & text embeddings for an online <a href=https://github.com/CelineBoutinon/product-classification target="_blank" rel="noreferrer">marketplace</a></li>
+<li>Classifying consumer products with CNNs, text vectors & text embeddings for an online <a href=https://github.com/CelineBoutinon/product-classification target="_blank" rel="noreferrer">marketplace</a></li>
 <li>A Big Data image classification architecture applied to <a href=https://github.com/CelineBoutinon/big-data-cloud
 target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 <li>An applied performance <a href=https://github.com/CelineBoutinon/visual-transformers target="_blank" rel="noreferrer">comparison</a> of visual transformers with CNN image classifiers</li>
@@ -42,7 +42,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 
 <h3 align="left"> :pushpin: Model serving & CI/CD </h3>
 <ul>
-<li>Predicting the energy consumption & greenhouse gas emissions of non-residential buildings in the <a href=https://github.com/CelineBoutinon/energy-consumption target="_blank" rel="noreferrer">City of Seattle</a></li>
+<li>Predicting the energy consumption & greenhouse gas emissions of non-residential buildings for the <a href=https://github.com/CelineBoutinon/energy-consumption target="_blank" rel="noreferrer">City of Seattle</a></li>
 <li>Deploying a consumer credit risk assessment & decision <a href=https://github.com/CelineBoutinon/credit-scoring-api target="_blank" rel="noreferrer">tool</a> on Streamlit with PyTest, Flask & Render</li>
 </ul>
 
@@ -50,7 +50,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 
 <h3 align="left"> :pushpin: Dashboarding </h3>
 <ul>
-<li>Creating a <a href=https://github.com/CelineBoutinon/WCAG-accessible-dashboard target="_blank" rel="noreferrer">dashboard</a> for colorblind & visually impaired users with Streamlit</li>
+<li>Creating a <a href=https://github.com/CelineBoutinon/WCAG-accessible-dashboard target="_blank" rel="noreferrer">dashboard</a> for colorblind & visually impaired users with Shap and Streamlit</li>
 <br>
 <li>Analysing worldwide access to <a href=https://github.com/CelineBoutinon/drinking-water-for-all target="_blank" rel="noreferrer">drinking water</a> with PowerBI </li>
 </ul>
@@ -71,7 +71,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 <br>
 <li>Qualifying   <a href=https://github.com/CelineBoutinon/nutrition-informationtarget="_blank" rel="noreferrer">nutrition information</a> on food products' labels</li>
 <br>
-<li>Depicting the world's leading  <a href=https://github.com/CelineBoutinon/education-statisticstarget="_blank" rel="noreferrer">education systems</a></li>
+<li>Ranking the world's leading  <a href=https://github.com/CelineBoutinon/education-statisticstarget="_blank" rel="noreferrer">education systems</a></li>
 </ul>
 
 
@@ -79,7 +79,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 <ul>
 <li>Building & querying a  <a href="https://github.com/CelineBoutinon/little-lemon" target="_blank" rel="noreferrer">restaurant</a>'s staff & customer database in MySQL with a Python client</li>
 <br>
-<li>Using public data to create a nationwide <a href=https://github.com/CelineBoutinon/laplace-immo target="_blank" rel="noreferrer">real-estate database</a> in MySQL with a Python client</li>
+<li>Using public data to create a nationwide <a href=https://github.com/CelineBoutinon/laplace-immo target="_blank" rel="noreferrer">real-estate database</a> with MySQL Workbench</li>
 </ul>
 
 

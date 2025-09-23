@@ -1,10 +1,13 @@
- <p><img src="images/banner1.png" alt="alt README header"></p>
+ <p><img src="images/my_venn.png" alt="alt README header"></p>
 
 
- <h1 align="center">Hi , I'm Celine Boutinon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+ <h2 align="left">:sparkles: About me: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <p align="center">
 
+Full-stack Data Scientist & Business Analyst | Machine Learning, Python, SQL | Data Analytics & Visualization | Financial Services & Maritime Industry
 
+</p>
 
 
 <br>

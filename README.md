@@ -1,4 +1,7 @@
-  <h1 align="center">Hi , I'm Celine Boutinon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ <p><img src="images/banner1.png" alt="alt README header"></p>
+
+
+ <h1 align="center">Hi , I'm Celine Boutinon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
 
@@ -6,28 +9,17 @@
 
 <br>
 <ul>
-<li>🔭 :seedling: I’m currently working on [TBC].</li>
-<li>🌱 :mortar_board: I’m currently learning [TBC].</li>
+<li>🔭 :seedling: :tomato: I’m currently working on harnessing the power of Sagemaker AI for my next portfolio project.</li>
+<li>🌱 :mortar_board: I’m currently learning PySpark, Airflow & Docker to boost my data engineering skills.</li>
 <li>💬 :thought_balloon: Ask me about [TBC].</li>
-<li>⚡ :hot_pepper: :mushroom: Fun fact: I’m also [TBC].</li>
+<li>⚡ :hot_pepper: :mushroom: :rock: Fun fact: I'm a rockhound & mushroom enthusiast.</li>
 </ul>
 <br>
 
 <h2 align="left">:toolbox: :hammer_and_wrench: :sparkles: Skills:</h2>
 
-<h3 align="left"> :nut_and_bolt: Languages:</h3>
-<!-- Python -->
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="images/python.png" alt="AWS" width="40" height="40">
-</a>
-<!-- SQL -->
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="images/sql2.png" alt="MS SQL Server" width="40" height="40">
-</a>
 
-
-
-<h3 align="left"> :pick: :file_cabinet: Databases & Cloud Hosting:</h3>
+<h3 align="left"> :pick: :file_cabinet: :nut_and_bolt: Databases & Pipelines:</h3>
 <!-- AWS -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img src="images/AWS.png" alt="AWS" width="40" height="40">
@@ -49,35 +41,48 @@
   <img src="images/MySQLWorkbench.png" alt="MySQL Workbench" width="40" height="40">
 </a>
 
-<h3 align="left"> :test_tube: :alembic: Data science:</h3>
+
+
+<h3 align="left"> :test_tube: :alembic: Data Wrangling, Modelling & Algorithms:</h3>
+<!-- Python -->
+<a href="https://www.python.org/downloads/" target="_blank" rel="noreferrer">
+  <img src="images/python.png" alt="AWS" width="40" height="40">
+</a>
+<!-- Jupyter -->
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="images/jupyter.png" alt="Jupyter" width="40" height="40">
+</a>
+<!-- Numpy -->
+
+
+
+<!-- Pandas -->
+
+
+
+
 <!-- Scikit-learn -->
 <a href="https://daxstudio.org" target="_blank" rel="noreferrer">
   <img src="images/dax_studio.png" alt="DAX Studio" width="40" height="40">
 </a>
 <!-- Statsmodels API -->
 
-<!-- Tensorflow -->
+<!-- Scipy -->
 
 
-<h3 align="left">:bar_chart: :pushpin: Data Visualisation & Business Intelligence:</h3>
-<!-- DAX Studio -->
-<a href="https://daxstudio.org" target="_blank" rel="noreferrer">
-  <img src="images/dax_studio.png" alt="DAX Studio" width="40" height="40">
-</a>
-<!-- Power BI -->
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="images/Power_BI.png" alt="Power BI" width="40" height="40">
-</a>
-<!-- Streamlit -->
-<a href="https://streamlit.io" target="_blank" rel="noreferrer">
-  <img src="images/streamlit.png" alt="Streamlit" width="40" height="40">
-</a>
 
-<h3 align="left"> :gear: MLOps:</h3>
+
+
+<h3 align="left"> :gear: Deployment & Infrastructure:</h3>
 <!-- Docker 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="images/docker-logo-blue.png" alt="Docker" width="40" height="40">
 </a> -->
+<!-- Visual Studio Code -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="images/vscode.png" alt="VS Code" width="40" height="40">
+</a>
+
 <!-- GitHub Actions -->
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
   <img src="images/github-actions.png" alt="GitHub Actions" width="40" height="40">
@@ -95,14 +100,35 @@
   <img src="images/MLflow.png" alt="MLflow" width="40" height="40">
 </a>
 
-<h3 align="left"> :laptop: Software & Tools:</h3>
-<!-- Visual Studio Code -->
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="images/vscode.png" alt="VS Code" width="40" height="40">
+
+<h3 align="left">:bar_chart: :pushpin: Data Visualisation:</h3>
+<!-- Matplotlib -->
+
+<!-- Seaborn -->
+
+
+<!-- Plotly Express -->
+
+
+<!-- Shap -->
+
+
+
+
+
+
+<h3 align="left">:bar_chart: :pushpin: Business Intelligence & Communication:</h3>
+<!-- DAX Studio -->
+<a href="https://daxstudio.org" target="_blank" rel="noreferrer">
+  <img src="images/dax_studio.png" alt="DAX Studio" width="40" height="40">
 </a>
-<!-- Jupyter -->
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="images/jupyter.png" alt="Jupyter" width="40" height="40">
+<!-- Power BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="images/Power_BI.png" alt="Power BI" width="40" height="40">
+</a>
+<!-- Streamlit -->
+<a href="https://streamlit.io" target="_blank" rel="noreferrer">
+  <img src="images/streamlit.png" alt="Streamlit" width="40" height="40">
 </a>
 <!-- Excel -->
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
@@ -113,10 +139,42 @@
   <img src="images/Power-Query.png" alt="Power Query" width="40" height="40">
 </a>
 <!-- KNIME Analytics -->
-<a href="https://www.knime.com/" target="_blank" rel="noreferrer">
+<a href="https://www.credly.com/go/q2crlBRL" target="_blank" rel="noreferrer">
   <img src="images/knime.jpg" alt="KNIME Analytics" width="40" height="40">
 </a>
-<!-- Canva 
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+<!-- Canva -->
+<a href="https://www.canva.com/design/DAF77nNuLZE/cVnBmROe4RQdNb57G9Zv1w/view?utm_content=DAF77nNuLZE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha1d4ccbafa" target="_blank" rel="noreferrer">
   <img src="images/canva.png" alt="Canva" width="40" height="40">
+</a> 
+
+<h3 align="left"> :gear: Deployment & Infrastructure:</h3>
+<!-- Docker 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="images/docker-logo-blue.png" alt="Docker" width="40" height="40">
 </a> -->
+<!-- Visual Studio Code -->
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="images/vscode.png" alt="VS Code" width="40" height="40">
+</a>
+
+<!-- GitHub Actions -->
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+  <img src="images/github-actions.png" alt="GitHub Actions" width="40" height="40">
+</a>
+<!-- Pytest -->
+<a href="https://pytest.org/" target="_blank" rel="noreferrer">
+  <img src="images/pytest.png" alt="pytest" width="40" height="40">
+</a>
+<!-- Flask -->
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="images/flask.png" alt="Flask" width="40" height="40">
+</a>
+<!-- MLflow -->
+<a href="https://mlflow.org/" target="_blank" rel="noreferrer">
+  <img src="images/MLflow.png" alt="MLflow" width="40" height="40">
+</a>
+
+
+
+
+

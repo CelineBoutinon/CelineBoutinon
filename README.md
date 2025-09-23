@@ -15,7 +15,7 @@ Financial Services & Maritime Industry
 
 
 <h2 align="left"> :mortar_board: What I'm currently learning:</h2>
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 30px; align-items: center;">
   <a href="https://pypi.org/project/pyspark/" target="_blank" rel="noreferrer">
     <img src="images/pyspark.png" alt="PySpark" width="150" height="150">
   </a>

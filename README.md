@@ -1,7 +1,7 @@
  <p><img src="images/my_venn.png" alt="alt README header"></p>
 
  <p>
- <h2 align="center">:pick: I transform raw data into actionable business insights :gem: </h2>
+ <h1 align="center">:pick: I transform raw data into actionable business insights :gem: </h1>
 </p>
 <br>
 <h2 align="left"> :mortar_board: What I'm currently learning:</h2>

@@ -55,7 +55,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 <li>Analysing worldwide access to <a href=https://github.com/CelineBoutinon/drinking-water-for-all target="_blank" rel="noreferrer">drinking water</a> with PowerBI </li>
 </ul>
 
-<h3 align="left"> :pushpin: Data wrangling & exploratory data analysis  </h3>
+<h3 align="left"> :pushpin: Data mining & exploratory data analysis  </h3>
 <ul>
 <li>Data quality analysis & inventory management for an online <a href=https://github.com/CelineBoutinon/bottleneck target="_blank" rel="noreferrer">fine wine store</a></li>
 <br>

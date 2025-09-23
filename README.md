@@ -48,7 +48,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 
 
 
-<h3 align="left"> :pushpin: Inclusive Storytelling </h3>
+<h3 align="left"> :pushpin: Inclusive storytelling </h3>
 <ul>
 <li>Creating a <a href=https://github.com/CelineBoutinon/WCAG-accessible-dashboard target="_blank" rel="noreferrer">dashboard</a> for colorblind & visually impaired users with Shap and Streamlit</li>
 <br>

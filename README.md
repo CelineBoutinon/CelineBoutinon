@@ -2,12 +2,12 @@
 
 
 
- <h2 align="left">:sparkles: About me: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-<p align="center">
+ <h2 align="left">:sparkles: About me: </h2>
+A detail-oriented, high-performing and effective team player with extensive
+experience in dynamic, multicultural work environments. Recognised for effective
+problem-solving skills and active stakeholder engagement.
 
-Full-stack Data Scientist & Business Analyst | Machine Learning, Python, SQL | Data Analytics & Visualization | Financial Services & Maritime Industry
 
-</p>
 
 
 <br>
@@ -19,10 +19,10 @@ Full-stack Data Scientist & Business Analyst | Machine Learning, Python, SQL | D
 </ul>
 <br>
 
-<h2 align="left">:toolbox: :hammer_and_wrench: :sparkles: Skills:</h2>
+<h2 align="left"> :sparkles: Skills:</h2>
 
 
-<h3 align="left"> :pick: :file_cabinet: :nut_and_bolt: Databases & Pipelines:</h3>
+<h3 align="left"> :pushpin: Databases & Pipelines:</h3>
 <!-- AWS -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img src="images/AWS.png" alt="AWS" width="40" height="40">
@@ -46,7 +46,7 @@ Full-stack Data Scientist & Business Analyst | Machine Learning, Python, SQL | D
 
 
 
-<h3 align="left"> :test_tube: :alembic: Data Wrangling, Modelling & Algorithms:</h3>
+<h3 align="left"> :pushpin: Data Wrangling, Modelling & Algorithms:</h3>
 <!-- Python -->
 <a href="https://www.python.org/downloads/" target="_blank" rel="noreferrer">
   <img src="images/python.png" alt="AWS" width="40" height="40">
@@ -76,7 +76,7 @@ Full-stack Data Scientist & Business Analyst | Machine Learning, Python, SQL | D
 
 
 
-<h3 align="left"> :gear: Deployment & Infrastructure:</h3>
+<h3 align="left"> :pushpin: Deployment & Infrastructure:</h3>
 <!-- Docker 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="images/docker-logo-blue.png" alt="Docker" width="40" height="40">
@@ -104,7 +104,7 @@ Full-stack Data Scientist & Business Analyst | Machine Learning, Python, SQL | D
 </a>
 
 
-<h3 align="left">:bar_chart: :pushpin: Data Visualisation:</h3>
+<h3 align="left"> :pushpin: Data Visualisation:</h3>
 <!-- Matplotlib -->
 
 <!-- Seaborn -->
@@ -120,7 +120,7 @@ Full-stack Data Scientist & Business Analyst | Machine Learning, Python, SQL | D
 
 
 
-<h3 align="left">:bar_chart: :pushpin: Business Intelligence & Communication:</h3>
+<h3 align="left"> :pushpin: Business Intelligence & Communication:</h3>
 <!-- DAX Studio -->
 <a href="https://daxstudio.org" target="_blank" rel="noreferrer">
   <img src="images/dax_studio.png" alt="DAX Studio" width="40" height="40">
@@ -150,7 +150,7 @@ Full-stack Data Scientist & Business Analyst | Machine Learning, Python, SQL | D
   <img src="images/canva.png" alt="Canva" width="40" height="40">
 </a> 
 
-<h3 align="left"> :gear: Deployment & Infrastructure:</h3>
+<h3 align="left"> :pushpin: Deployment & Infrastructure:</h3>
 <!-- Docker 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="images/docker-logo-blue.png" alt="Docker" width="40" height="40">

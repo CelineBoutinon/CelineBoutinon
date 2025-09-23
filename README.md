@@ -1,20 +1,34 @@
  <p><img src="images/my_venn.png" alt="alt README header"></p>
 
-
-
- <h2 align="left">:sparkles: About me: </h2>
-
-:pick: I transform raw data into actionable business insights. :gem:
-
 A detail-oriented, high-performing and effective team player with 15+ years'
 experience in dynamic, multicultural work environments. Recognised for effective
 problem-solving skills and active stakeholder engagement.
+
+ <h2 align="left">:pick: I transform raw data into actionable business insights. :gem: </h2>
+
+
+
+
 
  <h2 align="left">:sparkles: Areas of Expertise: </h2>
 Financial Services & Maritime Industry
 
 
 <h2 align="left"> :mortar_board: What I'm currently learning:</h2>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://pypi.org/project/pyspark/" target="_blank" rel="noreferrer">
+    <img src="images/pyspark.png" alt="PySpark" width="40" height="40">
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="images/airflow.png" alt="Airflow" width="40" height="40">
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="images/docker-logo-blue.png" alt="Docker" width="40" height="40">
+  </a>
+</div>
+
+
+
 <br>
 <ul>
 <li>🔭 :seedling: :tomato: I’m currently working on harnessing the power of Sagemaker AI for my next portfolio project.</li>

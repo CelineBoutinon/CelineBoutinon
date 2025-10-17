@@ -88,7 +88,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 <br>
 <h2 align="left"> :sparkles: Contact me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/celineboutinon/?locale=en_US"><img src="images/LinkedIn_icon.png"></a>
+  <a href="https://www.linkedin.com/in/celineboutinon/?locale=en_US"><img src="images/LinkedIn_icon.png" width="150" height="150"></a>
   </p>
 
 

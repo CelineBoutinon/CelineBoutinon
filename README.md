@@ -12,8 +12,8 @@
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
     <img src="images/airflow.png" alt="Airflow" width="150" height="150">
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="images/docker-logo-blue.png" alt="Docker" width="150" height="150">
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="images/k8.png" alt="Kubernetes" width="150" height="150">
   </a>
 </div>
 <br>

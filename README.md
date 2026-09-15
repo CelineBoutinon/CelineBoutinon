@@ -1,4 +1,4 @@
- <p><img src="images/my_venn.png" alt="alt README header"></p>
+ <p><img src="images/my_venn_update_0926.png" alt="alt README header"></p>
  
  <p>
  <h2 align="center">:pick: I transform raw data into actionable business insights :gem: </h2>
@@ -89,6 +89,9 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 <h2 align="left"> :sparkles: Contact me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/celineboutinon/?locale=en_US"><img src="images/LinkedIn_icon.png" width="50" height="50"></a>
+  <a href="https://www.kaggle.com/celineboutinon" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/>
+</a>
   </p>
 
 

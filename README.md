@@ -88,11 +88,14 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 <br>
 <h2 align="left"> :sparkles: Contact me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/celineboutinon/?locale=en_US"><img src="images/LinkedIn_icon.png" width="50" height="50"></a>
+  <a href="https://www.linkedin.com/in/celineboutinon/?locale=en_US" target="_blank">
+    <img src="images/LinkedIn_icon.png" alt="LinkedIn" width="50" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/celineboutinon" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/>
-</a>
-  </p>
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="50" height="50"/>
+  </a>
+</p>
 
 
 

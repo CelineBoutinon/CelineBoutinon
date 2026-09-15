@@ -26,7 +26,7 @@
 <li>Identifying & analysing potential export markets for French <a href= https://github.com/CelineBoutinon/chicken-run target="_blank" rel="noreferrer">chicken</a> products</li>
 </ul>
 
-<h3 align="left"> :pushpin: Fraud detection </h3>
+<h3 align="left"> :pushpin: Fraud prevention & detection </h3>
 <ul>
 <li>Detecting <a href=https://github.com/CelineBoutinon/faux-billets target="_blank" rel="noreferrer">counterfeit banknotes</a></li>
 <li>Establishing an individual's <a href=https://github.com/CelineBoutinon/credit-scoring target="_blank" rel="noreferrer">credit score</a> to justify consumer credit application decisions</li>
@@ -75,8 +75,9 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 </ul>
 
 
-<h3 align="left"> :pushpin: Database management </h3>
+<h3 align="left"> :pushpin: Data Engineering & Database management </h3>
 <ul>
+<li>Developing a local-first, cost-efficient <a href="https://github.com/CelineBoutinon/mailbreak" target="_blank" rel="noreferrer">email archive & backup</a> to bypass Yahoo's newly enforced storage caps and efficiently query & retrieve legacy email offline
 <li>Building & querying a  <a href="https://github.com/CelineBoutinon/little-lemon" target="_blank" rel="noreferrer">restaurant</a>'s staff & customer database in MySQL with a Python client</li>
 <br>
 <li>Using public data to create a nationwide <a href=https://github.com/CelineBoutinon/laplace-immo target="_blank" rel="noreferrer">real-estate database</a> with MySQL Workbench</li>
@@ -86,7 +87,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 <h3 align="left"> I’m currently working on harnessing the power of Sagemaker AI for my next portfolio projects - mapping & forecasting international :tomato: paste trade & assessing wild :mushroom: edibility... watch this space!</h3>
 
 <br>
-<h2 align="left"> :sparkles: Contact me</h2>
+<h2 align="left"> :sparkles: Find me on</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/celineboutinon/?locale=en_US" target="_blank">
     <img src="images/LinkedIn_icon.png" alt="LinkedIn" width="50" height="50">

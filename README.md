@@ -23,26 +23,31 @@
 <h3 align="left"> :pushpin: Market segmentation & customer behaviour  </h3>
 <ul>
 <li>Establishing & maintaining a customer segmentation model for online Brazilian marketplace <a href=https://github.com/CelineBoutinon/client-segmentation target="_blank" rel="noreferrer">Olist</a></li>
+<br>
 <li>Identifying & analysing potential export markets for French <a href= https://github.com/CelineBoutinon/chicken-run target="_blank" rel="noreferrer">chicken</a> products</li>
 </ul>
 
 <h3 align="left"> :pushpin: Fraud prevention & detection </h3>
 <ul>
 <li>Detecting <a href=https://github.com/CelineBoutinon/faux-billets target="_blank" rel="noreferrer">counterfeit banknotes</a></li>
+<br>
 <li>Establishing an individual's <a href=https://github.com/CelineBoutinon/credit-scoring target="_blank" rel="noreferrer">credit score</a> to justify consumer credit application decisions</li>
 </ul>
 
 <h3 align="left"> :pushpin: Image classification </h3>
 <ul>
 <li>Classifying consumer products with CNNs, text vectors & text embeddings for an online <a href=https://github.com/CelineBoutinon/product-classification target="_blank" rel="noreferrer">marketplace</a></li>
+<br>
 <li>A Big Data image classification architecture applied to <a href=https://github.com/CelineBoutinon/big-data-cloud
 target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
+<br>
 <li>An applied performance <a href=https://github.com/CelineBoutinon/visual-transformers target="_blank" rel="noreferrer">comparison</a> of visual transformers with CNN image classifiers</li>
 </ul>
 
 <h3 align="left"> :pushpin: Model serving & CI/CD </h3>
 <ul>
 <li>Predicting the energy consumption & greenhouse gas emissions of non-residential buildings for the <a href=https://github.com/CelineBoutinon/energy-consumption target="_blank" rel="noreferrer">City of Seattle</a></li>
+<br>
 <li>Deploying a consumer credit risk assessment & decision <a href=https://github.com/CelineBoutinon/credit-scoring-api target="_blank" rel="noreferrer">tool</a> on Streamlit with PyTest, Flask & Render</li>
 </ul>
 
@@ -78,6 +83,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 <h3 align="left"> :pushpin: Data Engineering & Database management </h3>
 <ul>
 <li>Developing a local-first, cost-efficient <a href="https://github.com/CelineBoutinon/mailbreak" target="_blank" rel="noreferrer">email archive & backup</a> to bypass Yahoo's newly enforced storage caps and efficiently query & retrieve legacy email offline
+<br>
 <li>Building & querying a  <a href="https://github.com/CelineBoutinon/little-lemon" target="_blank" rel="noreferrer">restaurant</a>'s staff & customer database in MySQL with a Python client</li>
 <br>
 <li>Using public data to create a nationwide <a href=https://github.com/CelineBoutinon/laplace-immo target="_blank" rel="noreferrer">real-estate database</a> with MySQL Workbench</li>

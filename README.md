@@ -92,7 +92,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 </ul>
 
 
-<h3 align="left"> I’m currently working on harnessing the power of Sagemaker AI for my next portfolio projects - mapping & forecasting international :tomato: paste trade & assessing wild :mushroom: edibility... watch this space!</h3>
+<h3 align="left"> 🏮 I’m currently putting the finishing touches on the upcoming release of <b>Japankify</b>—a Japanese kanji & vocabulary learning and SRS analytics application aimed at JLPT N3 learners... watch this space!</h3>
 
 <br>
 <h2 align="left"> :sparkles: Find me on</h2>
@@ -103,6 +103,9 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/celineboutinon" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="50" height="50"/>
+  </a>
+  <a href="https://medium.com/@celine.boutinon" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-121212?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile"/>
   </a>
 </p>
 

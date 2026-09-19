@@ -105,7 +105,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
     <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="50" height="50"/>
   </a>
   <a href="https://medium.com/@celine.boutinon" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-121212?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile"/>
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="Medium" width="50" height="50"/>
   </a>
 </p>
 

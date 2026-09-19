@@ -29,7 +29,7 @@
 
 <h3 align="left"> :pushpin: Fraud prevention & detection </h3>
 <ul>
-<li>Safeguarding personal data against identity theft with <a href=https://github.com/CelineBoutinon/FiligraneMalin target="_blank" rel="noreferrer">Filigrane Malin</a>, a privacy-focused, local-first PDF and image watermarking desktop app built with Streamlit</li>
+<li>Safeguarding personal data against identity theft with <a href=https://github.com/CelineBoutinon/filigrane-malin target="_blank" rel="noreferrer">Filigrane Malin</a>, a privacy-focused, local-first PDF and image watermarking desktop app built with Streamlit</li>
 <br>
 <li>Detecting <a href=https://github.com/CelineBoutinon/faux-billets target="_blank" rel="noreferrer">counterfeit banknotes</a></li>
 <br>

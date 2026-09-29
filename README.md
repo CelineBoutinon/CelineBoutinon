@@ -72,7 +72,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 </ul>
 
 
-<h3 align="left"> :pushpin: Statistical analyses & tests   </h3>
+<h3 align="left"> :pushpin: Statistical analysis & hypothesis testing   </h3>
 <ul>
 <li>Characterizing the behaviour of an <a href=https://github.com/CelineBoutinon/bookwormstarget="_blank" rel="noreferrer">online bookstore</a>'s clients</li>
 <br>

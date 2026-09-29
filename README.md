@@ -84,7 +84,9 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 
 <h3 align="left"> :pushpin: Data Engineering & Database management </h3>
 <ul>
-<li>Developing a local-first, cost-efficient <a href="https://github.com/CelineBoutinon/mailbreak" target="_blank" rel="noreferrer">email archive & backup</a> to bypass Yahoo's newly enforced storage caps and efficiently query & retrieve legacy email offline
+<li>Bridging raw SRS logic and actionable analytics in <a href="https://github.com/CelineBoutinon/japankify-open" target="_blank" rel="noreferrer">Japankify</a>, a Japanese vocabulary and kanji learning app powered by a Streamlit UI front-end and a serverless AWS backend</li>
+<br>
+<li>Developing a local-first, cost-efficient <a href="https://github.com/CelineBoutinon/mailbreak" target="_blank" rel="noreferrer">email archive & backup</a> to bypass Yahoo's newly enforced storage caps and efficiently query & retrieve legacy email offline</li>
 <br>
 <li>Building & querying a  <a href="https://github.com/CelineBoutinon/little-lemon" target="_blank" rel="noreferrer">restaurant</a>'s staff & customer database in MySQL with a Python client</li>
 <br>
@@ -92,7 +94,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 </ul>
 
 
-<h3 align="left"> 🏮 I’m currently putting the finishing touches on the upcoming release of <b>Japankify</b>—a Japanese kanji & vocabulary learning and SRS analytics application aimed at JLPT N3 learners... watch this space!</h3>
+<h3 align="left"> 🏮 <b>Japankify</b> is live! Explore the open-source repository <a href="https://github.com/CelineBoutinon/japankify-open" target="_blank" rel="noreferrer">here</a> or try the live <a href="https://japankify-demo.streamlit.app/" target="_blank" rel="noreferrer">Streamlit demo</a>. Next up: building an end-to-end MLOps architecture featuring data engineering pipelines, a SageMaker model with performance monitoring, MLflow parameter tracking, and a Streamlit frontend served via a Flask API—watch this space!</h3>
 
 <br>
 <h2 align="left"> :sparkles: Find me on</h2>

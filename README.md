@@ -9,12 +9,10 @@
   <a href="https://pypi.org/project/pyspark/" target="_blank" rel="noreferrer">
     <img src="images/pyspark.png" alt="PySpark" width="150" height="150">
   </a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="images/airflow.png" alt="Airflow" width="150" height="150">
+  <a href="https://neo4j.com/product/neo4j-graph-database/" target="_blank" rel="noreferrer">
+    <img src="images/Neo4j-logo_color.png" alt="Airflow" width="150" height="150">
   </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="images/k8.png" alt="Kubernetes" width="150" height="150">
-  </a>
+ 
 </div>
 <br>
 <br>

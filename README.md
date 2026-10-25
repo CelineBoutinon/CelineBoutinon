@@ -92,7 +92,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 </ul>
 
 
-<h3 align="left"> 🏮 <b>Japankify</b> is live! Explore the open-source repository <a href="https://github.com/CelineBoutinon/japankify-open" target="_blank" rel="noreferrer">here</a> or try the live <a href="https://japankify-demo.streamlit.app/" target="_blank" rel="noreferrer">Streamlit demo</a>. Next up: building an end-to-end MLOps architecture featuring data engineering pipelines, a SageMaker model with performance monitoring, MLflow parameter tracking, and a Streamlit frontend served via a Flask API—watch this space!</h3>
+<h3 align="left"> 🏮 <b>Japankify</b> is live! Explore the open-source repository <a href="https://github.com/CelineBoutinon/japankify-open" target="_blank" rel="noreferrer">here</a> or try the live <a href="https://japankify-demo.streamlit.app/" target="_blank" rel="noreferrer">Streamlit demo</a>. Next up: Engineering an end-to-end MLOps architecture to flag customs fraud and origin laundering in the global tomato paste trade. This features graph-enriched data pipelines with network topology metrics, a SageMaker anomaly detection model with drift monitoring, MLflow parameter tracking, a Power BI dashboard, and a Streamlit inference frontend served via a Flask API... watch this space!</h3>
 
 <br>
 <h2 align="left"> :sparkles: Find me on</h2>

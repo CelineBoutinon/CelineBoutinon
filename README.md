@@ -110,6 +110,10 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
   <a href="https://medium.com/@celine.boutinon" target="_blank">
     <img src="images/Medium-Icon-Black.svg" alt="Medium" width="50" height="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://share.streamlit.io/user/celineboutinon" target="_blank">
+    <img src="images\streamlit-mark-color.svg" alt="Medium" width="50" height="50"/>
+  </a>
 </p>
 
 

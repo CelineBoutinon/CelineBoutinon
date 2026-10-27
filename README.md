@@ -112,7 +112,7 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://share.streamlit.io/user/celineboutinon" target="_blank">
-    <img src="images\streamlit-mark-color.svg" alt="Medium" width="50" height="50"/>
+    <img src="images\streamlit-mark-color.svg" alt="Medium" width="75" height="75"/>
   </a>
 </p>
 

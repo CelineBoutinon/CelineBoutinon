@@ -1,86 +1,21 @@
- <p><img src="images/my_venn_update_1026.png" alt="alt README header"></p>
+ <p><img src="images/my_venn_update_1026-3.png" alt="alt README header"></p>
  
  <p>
- <h2 align="center">:pick: I transform raw data into actionable business insights :gem: </h2>
+ <h2 align="center">⛏️ I transform raw data into actionable business insights 💎 </h2>
 </p>
+
+
+<h3 align="left"> 🏮 <b>Japankify</b> is live! Explore the <a href="https://github.com/CelineBoutinon/japankify-open" target="_blank" rel="noreferrer">repo</a> or try the live <a href="https://japankify-demo.streamlit.app/" target="_blank" rel="noreferrer">Streamlit demo</a>.
 <br>
-<h2 align="left"> :mortar_board: What I'm currently learning</h2>
-<div style="display: flex; gap: 100px; align-items: left; justify-content: left;">
-  <a href="https://pypi.org/project/pyspark/" target="_blank" rel="noreferrer">
-    <img src="images/pyspark.png" alt="PySpark" width="150" height="150">
-  </a>
-  <a href="https://neo4j.com/product/neo4j-graph-database/" target="_blank" rel="noreferrer">
-    <img src="images/Neo4j-logo_color.png" alt="Airflow" width="150" height="150">
-  </a>
- 
-</div>
+
+<h3 align="left"> 🪄 <b>NEW!</b> The Filigrane Malin demo is available on <a href="https://filigrane-malin-demo.streamlit.app/" target="_blank" rel="noreferrer">Streamlit Community Cloud.</a>
 <br>
 <br>
 
-<h2 align="left"> :sparkles: Check out my latest projects</h2>
-<h3 align="left"> :pushpin: Market segmentation & customer behaviour  </h3>
-<ul>
-<li>Establishing & maintaining a customer segmentation model for online Brazilian marketplace <a href=https://github.com/CelineBoutinon/client-segmentation target="_blank" rel="noreferrer">Olist</a></li>
-<br>
-<li>Identifying & analysing potential export markets for French <a href= https://github.com/CelineBoutinon/chicken-run target="_blank" rel="noreferrer">chicken</a> products</li>
-</ul>
 
-<h3 align="left"> :pushpin: Fraud prevention & detection </h3>
-<ul>
-<li>Safeguarding personal data against identity theft with <a href=https://github.com/CelineBoutinon/filigrane-malin target="_blank" rel="noreferrer">Filigrane Malin</a>, a privacy-focused, local-first PDF and image watermarking desktop app built with Streamlit</li>
-<br>
-<li>Detecting <a href=https://github.com/CelineBoutinon/faux-billets target="_blank" rel="noreferrer">counterfeit banknotes</a></li>
-<br>
-<li>Establishing an individual's <a href=https://github.com/CelineBoutinon/credit-scoring target="_blank" rel="noreferrer">credit score</a> to justify consumer credit application decisions</li>
-</ul>
+<h2 align="left"> ✨ Check out my latest projects</h2>
 
-<h3 align="left"> :pushpin: Image classification </h3>
-<ul>
-<li>Classifying consumer products with CNNs, text vectors & text embeddings for an online <a href=https://github.com/CelineBoutinon/product-classification target="_blank" rel="noreferrer">marketplace</a></li>
-<br>
-<li>A Big Data image classification architecture applied to <a href=https://github.com/CelineBoutinon/big-data-cloud
-target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
-<br>
-<li>An applied performance <a href=https://github.com/CelineBoutinon/visual-transformers target="_blank" rel="noreferrer">comparison</a> of visual transformers with CNN image classifiers</li>
-</ul>
-
-<h3 align="left"> :pushpin: Model serving & CI/CD </h3>
-<ul>
-<li>Predicting the energy consumption & greenhouse gas emissions of non-residential buildings for the <a href=https://github.com/CelineBoutinon/energy-consumption target="_blank" rel="noreferrer">City of Seattle</a></li>
-<br>
-<li>Deploying a consumer credit risk assessment & decision <a href=https://github.com/CelineBoutinon/credit-scoring-api target="_blank" rel="noreferrer">tool</a> on Streamlit with PyTest, Flask & Render</li>
-</ul>
-
-
-
-<h3 align="left"> :pushpin: Inclusive storytelling </h3>
-<ul>
-<li>Creating a <a href=https://github.com/CelineBoutinon/WCAG-accessible-dashboard target="_blank" rel="noreferrer">dashboard</a> for colorblind & visually impaired users with Shap and Streamlit</li>
-<br>
-<li>Analysing worldwide access to <a href=https://github.com/CelineBoutinon/drinking-water-for-all target="_blank" rel="noreferrer">drinking water</a> with PowerBI </li>
-</ul>
-
-<h3 align="left"> :pushpin: Data mining & exploratory data analysis  </h3>
-<ul>
-<li>Data quality analysis & inventory management for an online <a href=https://github.com/CelineBoutinon/bottleneck target="_blank" rel="noreferrer">fine wine store</a></li>
-<br>
-<li>A GDPR-compliant, no-code analysis of  <a href=https://github.com/CelineBoutinon/lafleche-et-associes target="_blank" rel="noreferrer">gender equality</a> in the workplace with Knime Analytics</li>
-<br>
-<li>A worldwide analysis of   <a href=https://github.com/CelineBoutinon/la-faim-dans-le-monde target="_blank" rel="noreferrer">food insecurity</a> with a focus on the Thai cassava paradox</li>
-</ul>
-
-
-<h3 align="left"> :pushpin: Statistical analysis & hypothesis testing   </h3>
-<ul>
-<li>Characterizing the behaviour of an <a href=https://github.com/CelineBoutinon/bookwormstarget="_blank" rel="noreferrer">online bookstore</a>'s clients</li>
-<br>
-<li>Qualifying   <a href=https://github.com/CelineBoutinon/nutrition-informationtarget="_blank" rel="noreferrer">nutrition information</a> on food products' labels</li>
-<br>
-<li>Ranking the world's leading  <a href=https://github.com/CelineBoutinon/education-statisticstarget="_blank" rel="noreferrer">education systems</a></li>
-</ul>
-
-
-<h3 align="left"> :pushpin: Data Engineering & Database management </h3>
+<h3 align="left"> 📌 Data Engineering & Database management </h3>
 <ul>
 <li>Bridging raw SRS logic and actionable analytics in <a href="https://github.com/CelineBoutinon/japankify-open" target="_blank" rel="noreferrer">Japankify</a>, a Japanese vocabulary and kanji learning app powered by a Streamlit UI front-end and a serverless AWS backend</li>
 <br>
@@ -91,13 +26,88 @@ target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
 <li>Using public data to create a nationwide <a href=https://github.com/CelineBoutinon/laplace-immo target="_blank" rel="noreferrer">real-estate database</a> with MySQL Workbench</li>
 </ul>
 
-
-<h3 align="left"> 🏮 <b>Japankify</b> is live! Explore the <a href="https://github.com/CelineBoutinon/japankify-open" target="_blank" rel="noreferrer">repo</a> or try the live <a href="https://japankify-demo.streamlit.app/" target="_blank" rel="noreferrer">Streamlit demo</a>.
+<h3 align="left"> 📌 Data mining & exploratory data analysis  </h3>
+<ul>
+<li>Data quality analysis & inventory management for an online <a href=https://github.com/CelineBoutinon/bottleneck target="_blank" rel="noreferrer">fine wine store</a></li>
 <br>
- 🍅 Next up: Engineering an end-to-end MLOps architecture to flag customs fraud and origin laundering in the global tomato paste trade. This features graph-enriched data pipelines with network topology metrics, a SageMaker anomaly detection model with drift monitoring, MLflow parameter tracking, a Power BI dashboard, and a Streamlit inference frontend served via a Flask API... watch this space!</h3>
+<li>A GDPR-compliant, no-code analysis of  <a href=https://github.com/CelineBoutinon/lafleche-et-associes target="_blank" rel="noreferrer">gender equality</a> in the workplace with Knime Analytics</li>
+<br>
+<li>A worldwide analysis of   <a href=https://github.com/CelineBoutinon/la-faim-dans-le-monde target="_blank" rel="noreferrer">food insecurity</a> with a focus on the Thai cassava paradox</li>
+</ul>
+
+
+
+<h3 align="left"> 📌 Model serving & CI/CD </h3>
+<ul>
+<li>Predicting the energy consumption & greenhouse gas emissions of non-residential buildings for the <a href=https://github.com/CelineBoutinon/energy-consumption target="_blank" rel="noreferrer">City of Seattle</a></li>
+<br>
+<li>Deploying a consumer credit risk assessment & decision <a href=https://github.com/CelineBoutinon/credit-scoring-api target="_blank" rel="noreferrer">tool</a> on Streamlit with PyTest, Flask & Render</li>
+</ul>
+
+
+
+
+
+
+
+<h3 align="left"> 📌 Market segmentation & customer behaviour  </h3>
+<ul>
+<li>Establishing & maintaining a customer segmentation model for online Brazilian marketplace <a href=https://github.com/CelineBoutinon/client-segmentation target="_blank" rel="noreferrer">Olist</a></li>
+<br>
+<li>Identifying & analysing potential export markets for French <a href= https://github.com/CelineBoutinon/chicken-run target="_blank" rel="noreferrer">chicken</a> products</li>
+</ul>
+
+<h3 align="left"> 📌 Fraud prevention & detection </h3>
+<ul>
+<li>Safeguarding personal data against identity theft with <a href=https://github.com/CelineBoutinon/filigrane-malin target="_blank" rel="noreferrer">Filigrane Malin</a>, a privacy-focused, local-first PDF and image watermarking desktop app built with Streamlit</li>
+<br>
+<li>Detecting <a href=https://github.com/CelineBoutinon/faux-billets target="_blank" rel="noreferrer">counterfeit banknotes</a></li>
+<br>
+<li>Establishing an individual's <a href=https://github.com/CelineBoutinon/credit-scoring target="_blank" rel="noreferrer">credit score</a> to justify consumer credit application decisions</li>
+</ul>
+
+<h3 align="left"> 📌 Image classification </h3>
+<ul>
+<li>Classifying consumer products with CNNs, text vectors & text embeddings for an online <a href=https://github.com/CelineBoutinon/product-classification target="_blank" rel="noreferrer">marketplace</a></li>
+<br>
+<li>A Big Data image classification architecture applied to <a href=https://github.com/CelineBoutinon/big-data-cloud
+target="_blank" rel="noreferrer">fruits recognition</a> with AWS EMR</li>
+<br>
+<li>An applied performance <a href=https://github.com/CelineBoutinon/visual-transformers target="_blank" rel="noreferrer">comparison</a> of visual transformers with CNN image classifiers</li>
+</ul>
+
+<h3 align="left"> 📌 Statistical analysis & hypothesis testing   </h3>
+<ul>
+<li>Characterizing the behaviour of an <a href=https://github.com/CelineBoutinon/bookwormstarget="_blank" rel="noreferrer">online bookstore</a>'s clients</li>
+<br>
+<li>Qualifying   <a href=https://github.com/CelineBoutinon/nutrition-informationtarget="_blank" rel="noreferrer">nutrition information</a> on food products' labels</li>
+<br>
+<li>Ranking the world's leading  <a href=https://github.com/CelineBoutinon/education-statisticstarget="_blank" rel="noreferrer">education systems</a></li>
+</ul>
+
+<h3 align="left"> 📌 Inclusive storytelling </h3>
+<ul>
+<li>Creating a <a href=https://github.com/CelineBoutinon/WCAG-accessible-dashboard target="_blank" rel="noreferrer">dashboard</a> for colorblind & visually impaired users with Shap and Streamlit</li>
+<br>
+<li>Analysing worldwide access to <a href=https://github.com/CelineBoutinon/drinking-water-for-all target="_blank" rel="noreferrer">drinking water</a> with PowerBI </li>
+</ul>
 
 <br>
-<h2 align="left"> :sparkles: Find me on</h2>
+<h3 align="left"> 🎓 What I'm currently learning</h3>
+<div style="display: flex; gap: 100px; align-items: left; justify-content: left;">
+  <a href="https://pypi.org/project/pyspark/" target="_blank" rel="noreferrer">
+    <img src="images/pyspark.png" alt="PySpark" width="50" height="50">
+  </a>
+  <a href="https://neo4j.com/product/neo4j-graph-database/" target="_blank" rel="noreferrer">
+    <img src="images/Neo4j-logo_color.png" alt="neo4j" width="50" height="50">
+  </a>
+  </div>
+ 
+ <h3 align="left"> 🍅 <b>Next up:</b> Engineering an end-to-end MLOps architecture to flag customs fraud and origin laundering in the global tomato paste trade. This features graph-enriched data pipelines with network topology metrics, a SageMaker anomaly detection model with drift monitoring, MLflow parameter tracking, a Power BI dashboard, and a Streamlit inference frontend served via a Flask API... watch this space!</h3>
+
+ 
+<br>
+<h2 align="left"> ✨ Find me on</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/celineboutinon/?locale=en_US" target="_blank">
     <img src="images/LinkedIn_icon.png" alt="LinkedIn" width="50" height="50">
